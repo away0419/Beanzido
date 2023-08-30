@@ -69,5 +69,4 @@
 <br>
 
 ## [:tv: UCC](https://www.youtube.com/watch?v=w2W9CDbPXj0)
-<iframe  src="./exec/ucc.mp4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
+{% include video id="w2W9CDbPXj0" provider="youtube" %}
