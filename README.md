@@ -69,4 +69,6 @@
 <br>
 
 ## [:tv: UCC](https://www.youtube.com/watch?v=w2W9CDbPXj0)
-{% include include.html id="w2W9CDbPXj0" %}
+
+[<img src="http://img.youtube.com/vi/w2W9CDbPXj0/3.jpg">
+](https://www.youtube.com/watch?v=w2W9CDbPXj0)
